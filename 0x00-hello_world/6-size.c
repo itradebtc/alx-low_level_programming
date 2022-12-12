@@ -2,6 +2,7 @@
 
 /**
  * main - Entry point
+ * coded by Kelubia
  * Return: Always 0 (Success)
 */
 
